@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class footstep_script_collision: MonoBehaviour
 {
-     public AK.Wwise.Event footevent; // выбираем ивент Wwise
+    // public AK.Wwise.Event footevent; // выбираем ивент Wwise
 
     private void OnTriggerEnter(Collider other)
     {

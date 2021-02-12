@@ -25,8 +25,8 @@ public class DayNight_Script : MonoBehaviour
     {
         CalculateTime();
 
-     //   Time.SetGlobalValue(time);
-
+        //   Time.SetGlobalValue(time);
+    }
 
         #region GUI
 
